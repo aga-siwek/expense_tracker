@@ -1,0 +1,5 @@
+[project]
+name = "Expense Tracker"
+description = "application for the simple management of expenses"
+version = "0.1"
+dependencies = ["pysqllite3 >= 0.5.3."]
